@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog.
+This is the second line of the file.
+LangChain's TextLoader is great for simple text files.
+It handles various encodings like UTF-8.
